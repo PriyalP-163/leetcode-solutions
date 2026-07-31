@@ -36,9 +36,8 @@ Each solution is written with a focus on clean code, optimized approaches, and u
 - Maintain consistency through daily practice
 
 ## 📈 Progress
-- Daily problem-solving with regular GitHub commits
+- Daily problem-solving 
 - Solutions include accepted implementations and optimized approaches
-- Repository updated automatically using LeetCode Sync
 
 ## 🛠️ Tech Stack
 - Java
