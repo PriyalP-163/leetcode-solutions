@@ -18,7 +18,7 @@ class Solution {
                 left = mid+1;
             }
         }
-        return left;
+        return left; // if the target is not in the input array, this prints the index to insert the target at correct index
     
     }
 }
