@@ -1,6 +1,6 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        // creating hashmap to store the frequencies of the elements
+        // Using hashmap - to store the frequencies of the elements
         // HashMap<Integer, Integer> map = new HashMap<>();
         // for(int num : nums){
         //     map.put(num, map.getOrDefault(num,0)+1);
@@ -12,7 +12,7 @@ class Solution {
         // }
         // return false;
 
-        // using hashset
+        // 2. using hashset
         HashSet<Integer> set = new HashSet<>();
 
         for (int num : nums) {
